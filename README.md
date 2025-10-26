@@ -13,41 +13,40 @@ Each folder is organized in a clean, company-style structure with proper naming 
 ---
 
 ## 🗂️ Repository Structure
+📁 web-development-journey/
+│
+├── 📂 01_HTML/
+│ ├── 📁 Day01_Intro_to_HTML/
+│ ├── 📁 Day02_HTML_Tags/
+│ └── 📄 notes.md
+│
+├── 📂 02_CSS/
+│ ├── 📁 Day01_Selectors/
+│ ├── 📁 Day02_Flexbox/
+│ └── 📄 notes.md
+│
+├── 📂 03_JAVASCRIPT/
+│ ├── 📁 Day01_Variables/
+│ ├── 📁 Day02_Functions/
+│ └── 📄 notes.md
+│
+├── 📂 04_BACKEND/
+│ ├── 📁 Day01_NodeJS_Intro/
+│ ├── 📁 Day02_Express_Basics/
+│ └── 📄 notes.md
+│
+├── 📂 05_PROJECTS/
+│ ├── 📁 Mini_Project_1_Portfolio/
+│ ├── 📁 Mini_Project_2_Calculator/
+│ ├── 📁 FullStack_Project_1_BlogApp/
+│ └── 📁 FullStack_Project_2_AuthSystem/
+│
+├── 📂 assets/
+│ ├── 📁 images/
+│ ├── 📁 icons/
+│ ├── 📁 fonts/
+│ └── 📁 videos/
 
-web-development-journey/
-│
-├── 01_HTML/
-│ ├── Day01_Intro_to_HTML/
-│ ├── Day02_HTML_Tags/
-│ └── ...
-│
-├── 02_CSS/
-│ ├── Day01_Selectors/
-│ ├── Day02_Flexbox/
-│ └── ...
-│
-├── 03_JAVASCRIPT/
-│ ├── Day01_Variables/
-│ ├── Day02_Functions/
-│ └── ...
-│
-├── 04_BACKEND/
-│ ├── Day01_NodeJS_Intro/
-│ ├── Day02_Express_Basics/
-│ └── ...
-│
-├── 05_PROJECTS/
-│ ├── Mini_Project_1_Portfolio/
-│ ├── Mini_Project_2_Calculator/
-│ ├── FullStack_Project_1_BlogApp/
-│ └── ...
-│
-├── assets/
-│ ├── images/
-│ ├── icons/
-│ ├── fonts/
-│ └── videos/
-│
 ---
 
 ## 🧠 Topics Covered
