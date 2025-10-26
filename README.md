@@ -16,22 +16,22 @@ web-development-journey/
 ├── 01_HTML/
 │   ├── Day01_Intro_to_HTML/
 │   ├── Day02_HTML_Tags/
-│  
+│   └── notes.md
 │
 ├── 02_CSS/
 │   ├── Day01_Selectors/
 │   ├── Day02_Flexbox/
-│   
+│   └── notes.md
 │
 ├── 03_JAVASCRIPT/
 │   ├── Day01_Variables/
 │   ├── Day02_Functions/
-│   
+│   └── notes.md
 │
 ├── 04_BACKEND/
 │   ├── Day01_NodeJS_Intro/
 │   ├── Day02_Express_Basics/
-│   
+│   └── notes.md
 │
 ├── 05_PROJECTS/
 │   ├── Mini_Project_1_Portfolio/
@@ -45,7 +45,7 @@ web-development-journey/
 │   ├── fonts/
 │   └── videos/
 │
-├──.gitignore        
+├── .gitignore            
 └── README.md
 
 
