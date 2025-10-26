@@ -1,0 +1,15 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node Modules (later in JS/React)
+node_modules/
+.env
+
+# IDE Files
+.vscode/
+.idea/
+
+# Build Files
+dist/
+build/
