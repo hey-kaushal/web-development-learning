@@ -67,6 +67,7 @@ web-development-journey/
 |-----|--------|--------|
 | 1 | HTML Introduction ,Setup | ✅ |
 NOTE:- I already start this jounary 4 month ago but some reasons i did not continue that time so again i am back strong with proper planing and i alreday complete day 8 css so in day 1 and 2 we fully setup and revise previus things
+| 8 | clear backlogs css and html | ✅ |
 
 
 ---
